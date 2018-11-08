@@ -21,7 +21,7 @@ Hackathon 進め方 - 例:
 
   - 日本マイクロソフト : YouTube 公式チャネル : Microsoft AI
 
-   https://www.youtube.com/playlist?list=PL1RqQ3kddIpZTMAXfqSy_UHpjVhPiBfSf
+     https://www.youtube.com/playlist?list=PL1RqQ3kddIpZTMAXfqSy_UHpjVhPiBfSf
 
 # 開発ツール
 
