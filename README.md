@@ -3,7 +3,7 @@
 Connect 2018 in Koriyama, with UDC （ハッカソン）で参考になる技術情報です。
 
 
-Hackathon 進め方例:
+Hackathon 進め方 - 例:
 
 1. ビジネス課題を固める
 2. 解決の仮説を立てる
@@ -52,6 +52,10 @@ https://azure.microsoft.com/en-us/solutions/architecture/
     Chat Bot を作るためのコーディングベース の Framework です。Cognitive Services の Speech + Translator | LUIS などと組み合わせると Smart Speaker 用のアプリケーションの開発が出来ます。
 
     https://dev.botframework.com/
+
+  - Cognitive Services | Bot Framework のチュートリアル (マイクロソフト大森さん)
+
+    https://qiita.com/annie
 
 ## Web Application
 
