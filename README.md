@@ -2,6 +2,9 @@
 
 Connect 2018 in Koriyama, with UDC （ハッカソン）で参考になる技術情報です。
 
+課題: 地域課題解決アプリを作ろう」～オープンデータを活用して～
+
+
 
 Hackathon 進め方 - 例:
 
@@ -22,6 +25,8 @@ Hackathon 進め方 - 例:
 
 # 開発ツール
 
+使い慣れたツールを使ってください。以下は、あくまで「便利」なツールとしてのご紹介です。
+
 1. Visual Studio Code
 
     Windows | Mac 双方で動作するコーディングツールです。拡張機能が豊富に提供されているため、多様な開発シナリオに対応できます。
@@ -34,6 +39,23 @@ Hackathon 進め方 - 例:
 
     https://notebooks.azure.com/
 
+# 開発環境としての Azure 
+
+無償アカウント があります。
+
+https://azure.microsoft.com/ja-jp/free/
+
+
+Azure 無償アカウントのよくある質問:
+
+https://azure.microsoft.com/ja-jp/free/free-account-faq/
+
+# Azure の無料トレーニング
+
+オンラインで提供されています。その場で実行できる環境がある教材もあります。
+
+https://docs.microsoft.com/ja-jp/learn/azure/
+
 # 実現システムのアーキテクチャを考える
 
 構想アーキテクチャーを Azure で実現する上での参考となります。
@@ -44,11 +66,13 @@ https://azure.microsoft.com/en-us/solutions/architecture/
 機械学習、深層学習といった技術によって、これまで実現が難しかった課題を解決します。画像認識、音声認識、言語認識など。主に出来る事は、数値(値、日付など)の予測、分類・仕分け などがあります。
 
   - Cognitive Services
-  学習済みの Deep Learning のモデルを REST API で使えるようにしています。
+
+    学習済みの Deep Learning のモデルを REST API で使えるようにしています。
 
     https://docs.microsoft.com/ja-jp/azure/cognitive-services/
 
   - Bot Framework
+
     Chat Bot を作るためのコーディングベース の Framework です。Cognitive Services の Speech + Translator | LUIS などと組み合わせると Smart Speaker 用のアプリケーションの開発が出来ます。
 
     https://dev.botframework.com/
@@ -56,6 +80,14 @@ https://azure.microsoft.com/en-us/solutions/architecture/
   - Cognitive Services | Bot Framework のチュートリアル (マイクロソフト大森さん)
 
     https://qiita.com/annie
+
+
+  - Azure AI Gallery
+
+    リコメンデーションなど、独自の機械学習のモデルを作成する際の参考となる、テンプレートがあります。機械学習自体を理解している方であれば、お役に立つと思います。
+
+    https://gallery.azure.ai/
+
 
 ## Web Application
 
