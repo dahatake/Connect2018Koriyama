@@ -88,7 +88,7 @@ https://azure.microsoft.com/en-us/solutions/architecture/
     https://docs.microsoft.com/ja-jp/azure/cognitive-services/speech-service/overview
 
 
-    #スマートスピーカー連携で参考になりそうなもの。
+    ## スマートスピーカー連携で参考になりそうなもの。
 
     クイック スタート: JavaScript から Speech Service SDK を使用してブラウザーで音声を認識する:
     
@@ -127,6 +127,21 @@ https://azure.microsoft.com/en-us/solutions/architecture/
   様々なデータモデル (JSON document, Graphなど) を保存できるデータベースです。
 
       https://docs.microsoft.com/ja-jp/azure/cosmos-db/
+
+## Xamarin
+
+  1. Xamarin 基礎
+
+  エクセルソフト 田淵さん (https://twitter.com/ytabuchi) の分かりやすいスライド
+  
+      https://www.slideshare.net/ytabuchi/xamarin-61283044
+
+
+  2. Xamarin 入門編 - 公式ドキュメント
+
+      https://docs.microsoft.com/ja-jp/xamarin/#pivot=platforms&panel=XamarinForms
+
+
 
 ## Serverless
 
