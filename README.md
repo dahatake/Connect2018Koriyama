@@ -132,9 +132,9 @@ https://azure.microsoft.com/en-us/solutions/architecture/
 
   1. Xamarin 基礎
 
-  エクセルソフト 田淵さん (https://twitter.com/ytabuchi) の分かりやすいスライド
-  
-      https://www.slideshare.net/ytabuchi/xamarin-61283044
+      エクセルソフト 田淵さん (https://twitter.com/ytabuchi) の分かりやすいスライド。
+
+      https://www.slideshare.net/ytabuchi/xamarin-61283044/
 
 
   2. Xamarin 入門編 - 公式ドキュメント
