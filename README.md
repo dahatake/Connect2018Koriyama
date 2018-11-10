@@ -81,13 +81,33 @@ https://azure.microsoft.com/en-us/solutions/architecture/
 
     https://qiita.com/annie
 
+  - Speech API
+
+    概念をしっかり読みましょう。
+
+    https://docs.microsoft.com/ja-jp/azure/cognitive-services/speech-service/overview
+
+
+    #スマートスピーカー連携で参考になりそうなもの。
+
+    クイック スタート: JavaScript から Speech Service SDK を使用してブラウザーで音声を認識する:
+    
+    https://docs.microsoft.com/ja-jp/azure/cognitive-services/speech-service/quickstart-js-browser
+
+
+    Microsoft 寺田さん (https://twitter.com/yoshioterada) のサンプル:
+
+    https://github.com/yoshioterada/Microsoft-Translator-WebSocket-Java/
+
+　　Microsoft ちょまどさん (https://twitter.com/chomado) の セッション資料
+
+　　https://www.slideshare.net/chomado/azure-functions-googlehome-line-clova-amazon-alexa-122282901
 
   - Azure AI Gallery
 
     リコメンデーションなど、独自の機械学習のモデルを作成する際の参考となる、テンプレートがあります。機械学習自体を理解している方であれば、お役に立つと思います。
 
     https://gallery.azure.ai/
-
 
 ## Web Application
 
