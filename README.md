@@ -114,19 +114,28 @@ https://azure.microsoft.com/en-us/solutions/architecture/
 一般的な Web - DB アプリケーション のホスティング環境です。
 
   1. Azure Web App
+
   フルマネージドのWebアプリケーションのホスティング環境 (PaaS) です。
 
       https://docs.microsoft.com/ja-jp/azure/app-service/
 
   2. Azure SQL Database
+
   RDBMS の決定版!
 
       https://docs.microsoft.com/ja-jp/azure/sql-database/
 
   3. Cosmos DB
+
   様々なデータモデル (JSON document, Graphなど) を保存できるデータベースです。
 
       https://docs.microsoft.com/ja-jp/azure/cosmos-db/
+
+  4. Azure Notification Hub
+
+  大量のSmart Phone などにプッシュ通知を送信できるサービスです。Alexa には対応していないみたいですね(要調査)...
+
+      https://docs.microsoft.com/ja-jp/azure/notification-hubs/
 
 ## Xamarin
 
@@ -140,8 +149,6 @@ https://azure.microsoft.com/en-us/solutions/architecture/
   2. Xamarin 入門編 - 公式ドキュメント
 
       https://docs.microsoft.com/ja-jp/xamarin/#pivot=platforms&panel=XamarinForms
-
-
 
 ## Serverless
 
